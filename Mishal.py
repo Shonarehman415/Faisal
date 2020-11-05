@@ -60,14 +60,14 @@ banner = """
 \x1b[1;91m ____) | | |  | | | |__| | | |\  |  _| |_ 
 \x1b[1;91m|_____/  |_|  |_|  \____/  |_| \_| |_____|
 \x1b[1;92m   (KING)  &  (QUEEN)                               
-★★★★★★★★★★★★★★★★★★★★★★★★★
-\x1b[1;98m➣Lover: FAISAL X MISHAL
-\x1b[1;92m➣Github:HTTPS://GITHUB.COM/QUEEN007
-\x1b[1;92m➣Facebook:FAISAL REHMAN
-\x1b[1;98m➣JISAY TUM USTAD KAHTY WO MERY NALAIQ SHAHGIRD HAIN😆
-\x1b[1;92m➣TUM DIL BAN KAR DRAKHTY M❤
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+\x1b[1;91m➣Lover: FAISAL X MISHAL
+\x1b[1;91m➣Github:HTTPS://GITHUB.COM/QUEEN007
+\x1b[1;91m➣Facebook:FAISAL REHMAN
+\x1b[1;91m➣JISAY TUM USTAD KAHTY WO MERY NALAIQ SHAHGIRD HAIN😆
+\x1b[1;91m➣TUM DIL BAN KAR DRAKHTY M❤
 \x1b[1;91m➣Gang:NIGHT 007 FAMILY❤
-★★★★★★★★★★★★★★★★★★★★★★★★"""
+\x1b[1;92m★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★"""
 # titik #
 def tik():
 	titik = [".   ","..  ","... "]
